@@ -8,7 +8,7 @@ To add a new package to the GlowLang Ecosystem:
    **This is the file `gdu` actually fetches** — a package without it installs
    only as a non-functional stub.
 4. Add a `package.json` with your package metadata.
-5. Add a `README.md` explaining how to use it.
+5. Add a `README.md` explaining how to use it .
 6. Open a Pull Request!
 
 ## `package.json` format:
